@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_image_height">300dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="big_text_size">20sp</dimen>
+    <dimen name="medium_text_size">16sp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="small_image_width">80dp</dimen>
+    <dimen name="small_image_height">74dp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="no_data_image_height_width">200dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+</resources>
